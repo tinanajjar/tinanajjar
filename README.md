@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning **AI and Data Science**  
-- 💡 Interested in **Data Visualization**  
 - 🤝 Open to collaborating on innovative projects  
 
 ---
